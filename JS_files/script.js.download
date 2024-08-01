@@ -1,0 +1,9 @@
+const student = {
+    marks: 20,
+    fullName : "ishaansingh",
+};
+
+const human = {
+    ears : 2,
+    types : "male and female",
+}
