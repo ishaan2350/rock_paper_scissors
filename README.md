@@ -23,6 +23,7 @@ This project allows users to play against the computer with real-time score upda
 - JavaScript
 
 ---
+<img width="540" height="578" alt="Screenshot 2026-05-22 214250" src="https://github.com/user-attachments/assets/7ef14e2a-6d2a-4197-ad64-2dbb0c9a50cd" />
 
 ## 📂 Project Structure
 
